@@ -1,8 +1,8 @@
 ---
 filesPath:
-        input: "/home/hadoop/aijusProd/database/ETLtrabalhista.csv"
-        output: "/home/hadoop/aijusProd/output/prediction/"
-        outputPerformance: "/home/hadoop/aijusProd/output/performance/"
+        input: "/home/hadoop/database/ETLtrabalhista.csv"
+        output: "/home/hadoop/output/prediction/"
+        outputPerformance: "/home/hadoop/output/performance/"
 
 filesInfo:
         type: csv
